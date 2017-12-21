@@ -4,7 +4,7 @@ ArrayList<Asteroid> gameAsteroids = new ArrayList<Asteroid>();
 public void setup() 
 {
   size (430, 400);
-  background(0);
+  background(98,189,193);
   for (int i = 1; i < lee.length; i++)
   {
     lee[i] = new Star();
