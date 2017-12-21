@@ -16,7 +16,7 @@ public void setup()
 }
 public void draw() 
 {
-  background(98,189,193);
+  background(0);
   Bob.show();
   Bob.move();
 
